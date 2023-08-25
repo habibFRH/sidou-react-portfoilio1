@@ -11,17 +11,16 @@ div = () => {
                 </p>
             </div>
             <p className='text-xl mt-20 max-[768px]:mt-10'>
-            Greetings, I am Ferhi Mohamed Habib Ellah, a dedicated software engineering graduate driven by a profound enthusiasm 
-            for the world of technology. My way in web and mobile app development has been marked by a fervent exploration of diverse 
-            programming languages and design tools, enabling me to craft seamless and engaging user experiences.
+            Greetings, I am Ferhi Mohamed Habib Ellah, a dedicated software engineering graduate driven by 
+            a profound enthusiasm for the world of technology. My way in web and mobile app development has been marked by a fervent exploration of diverse 
+            programming languages and design tools, enabling me to craft seamless and engaging user experiences. My story with React.js has been particularly transformative.
+            Through countless hours of learning and hands-on application, I've honed my skills in creating modular and dynamic interfaces.
+            
             </p>
             <br/>
             <p className='text-xl'>
-            My story with React.js 
-            has been particularly transformative. Through countless hours of learning and hands-on application, I've honed my skills in creating
-            modular and dynamic interfaces. From harnessing the power of components to optimizing rendering efficiency with the Virtual DOM,
-            React.js has become an essential part of my toolkit. With a deep appreciation for the elegance and functionality it offers, I am committed
-            to pushing the boundaries of what's possible in modern web development.
+            From harnessing the power of components to optimizing rendering efficiency with the Virtual DOM, React.js has become an essential part of my toolkit. With a deep
+            appreciation for the elegance and functionality, I am committed to pushing the boundaries of what's possible in modern web development.
             </p>
         </div>
     </div>

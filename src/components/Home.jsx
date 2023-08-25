@@ -10,7 +10,7 @@ const Home = () => {
             <div className='flex flex-col justify-center h-full max-[768px]:mb-11'>
                 <h2 className='text-4xl sm:text-7xl font-bold text-white'>I'm a Full Stack Developper</h2>
                 <p className='text-gray-500 py-4 max-w-md'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, recusandae distinctio ad magnam fugit sunt aspernatur velit natus modi esse ab, 
+                    i am a software engineering graduate, i dealt with a lot of programming languages . Highly motivated and skilled  
                 </p>
                 <div>
                     <Link to='portfolio' smooth duration={1000} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer animate-pulse z-0'>
